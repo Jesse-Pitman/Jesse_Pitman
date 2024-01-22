@@ -2,4 +2,4 @@
 
 <center><img src="17045044857484qu4n3ny(1).png" alt="_w00f_"></center>
 
-![tryhackme stats](https://raw.githubusercontent.com/<McafeesGhost>/<McafeesGhost>/master/assets/thm_propic.png)
+![tryhackme stats](https://raw.githubusercontent.com/<Jesse-Pitman>/<Jesse-Pitman>/master/assets/thm_propic.png)
