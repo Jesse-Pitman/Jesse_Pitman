@@ -1,5 +1,5 @@
 <center><h1>Jesse Pitman</h1></center>
-<h3>Cybersecurity Student and Enthusiast | A+, Network+, Project+ & ITIL4 Certified</h3>
+<center><h3>Cybersecurity Student and Enthusiast | A+, Network+, Project+ & ITIL4 Certified</h3></center>
 
 <center><script src="https://tryhackme.com/badge/1628294"></script></center>
 
