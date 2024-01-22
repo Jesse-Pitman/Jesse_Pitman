@@ -4,5 +4,7 @@
 
 <img src="https://tryhackme-badges.s3.amazonaws.com/McafeesGhost.png" alt="TryHackMe">
 
+<script src="https://tryhackme.com/badge/1628294"></script>
+
 
 
